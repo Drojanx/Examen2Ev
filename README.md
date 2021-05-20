@@ -7,3 +7,5 @@ con el personal del establecimiento, reduciendo así el riesgo de contagio de co
 
 Entre otras cosas, pueden pedir su comida desde la app, creandose una comanda virtual
 que verán tanto cocineros como camareros.
+
+Modificacion del README.md
